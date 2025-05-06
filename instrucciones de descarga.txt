@@ -16,7 +16,7 @@ Una vez descargado, colóquelo en la ruta adecuada del notebook (por defecto: `/
 
 ---
 
-### 🧪 Datos sintéticos
+### Datos sintéticos
 
 Los datasets de entrenamiento y prueba no se descargan, sino que **se generan automáticamente** en tiempo real cuando se ejecuta el notebook. Estos incluyen:
 
