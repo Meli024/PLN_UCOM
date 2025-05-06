@@ -1,0 +1,26 @@
+## Datos o instrucciones de descarga
+
+Este proyecto no utiliza datasets externos descargados desde internet. Sin embargo, **requiere el modelo preentrenado Word2Vec de Google** para la vectorización de los textos.
+
+### Modelo Word2Vec (Google News)
+
+Se debe descargar manualmente el archivo:
+
+**`GoogleNews-vectors-negative300.bin`**
+
+Puede obtenerse desde:
+- [Kaggle - GoogleNews Word2Vec](https://www.kaggle.com/datasets/sugataghosh/google-word2vec)
+- [Google Drive o fuentes alternativas oficiales](https://code.google.com/archive/p/word2vec/)
+
+Una vez descargado, colóquelo en la ruta adecuada del notebook (por defecto: `/content/drive/MyDrive/...` o ajuste la ruta si lo desea).
+
+---
+
+### 🧪 Datos sintéticos
+
+Los datasets de entrenamiento y prueba no se descargan, sino que **se generan automáticamente** en tiempo real cuando se ejecuta el notebook. Estos incluyen:
+
+- Dataset binario (2 clases)
+- Dataset multiclase (4 clases)
+
+Ambos se construyen a partir de listas de palabras temáticas definidas en el código.
