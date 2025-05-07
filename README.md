@@ -1,5 +1,5 @@
 
-##Modelado de Relaciones Semánticas con Word2Vec y LSTM
+# Modelado de Relaciones Semánticas con Word2Vec y LSTM
 
 Este proyecto implementa modelos de clasificación semántica utilizando embeddings Word2Vec combinados con redes neuronales LSTM. Se desarrollaron dos modelos (binario y multiclase) sobre datasets sintéticos para evaluar su capacidad de generalización.
 
