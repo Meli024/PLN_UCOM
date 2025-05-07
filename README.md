@@ -8,8 +8,11 @@ pip install -r requirements.txt
 
 ## Estructura
 notebooks/: Entrenamiento y pruebas interactivas de modelos.
+
 models/: Modelos entrenados (.h5) listos para usar.
+
 articles/: Informe final del proyecto.
+
 data/: Instrucciones para cargar Word2Vec preentrenado.
 
 ## Cómo ejecutar
