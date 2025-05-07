@@ -20,4 +20,5 @@ data/: Instrucciones para cargar Word2Vec preentrenado.
 ## Datos
 GoogleNews-vectors-negative300.bin: Modelo Word2Vec preentrenado con más de 100 mil millones de palabras del corpus de noticias de Google.
 
-## Autor: Melizza Amarilla Cardozo
+
+Autor: Melizza Amarilla Cardozo
