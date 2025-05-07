@@ -11,9 +11,7 @@ notebooks/: Entrenamiento y pruebas interactivas de modelos.
 
 models/: Modelos entrenados (.h5) listos para usar.
 
-articles/: Informe final del proyecto.
-
-data/: Instrucciones para cargar Word2Vec preentrenado.
+data/: Informe final del proyecto.
 
 ## Cómo ejecutar
 1. Instalar dependencias.
