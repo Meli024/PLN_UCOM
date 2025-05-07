@@ -17,7 +17,7 @@ data/: Instrucciones para cargar Word2Vec preentrenado.
 
 ## Cómo ejecutar
 1. Instalar dependencias.
-2. Descargar el archivo Word2Vec desde Kaggle (ver /data/README.md).
+2. Descargar el archivo Word2Vec desde Kaggle (ver [/data/README.md](https://www.kaggle.com/datasets/sugataghosh/google-word2vec/)).
 3. Abrir y ejecutar los notebooks en Google Colab.
 
 ## Datos
